@@ -1,6 +1,6 @@
 Creator:- C9ffin
 
-Get free RDP of Dual Core CPU nad 7GB Ram
+Get free RDP of Dual Core CPU and 7GB Ram
 
 Go to ngrok.com, and Sign up
 
