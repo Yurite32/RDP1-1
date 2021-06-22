@@ -2,7 +2,7 @@ Creator:- C9ffin
 
 Get free RDP of Dual Core CPU and 7GB Ram
 
-Go to ngrok.com, and Sign up
+Go to https://dashboard.ngrok.com/get-started/setup and Sign up
 
 Then, go to https://dashboard.ngrok.com/get-started/your-authtoken       
 and copy your authtoken
